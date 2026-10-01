@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!;Welcome+to+my+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI Security & Governance | Fractional CISO Services | InfoSec Architecture)](https://git.io/typing-svg)
 
 <!--
 **tatyan/tatyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
